@@ -1,6 +1,6 @@
 # DLaaS - Datalayer as a Service 
 ## Monetize Your Chia Blockchain Node
-
+ 
 Welcome to the DLaaS repository, your one-stop solution for converting your Chia Blockchain node into a lucrative venture. This project focuses on the Chia data layer, offering its services to clients on a rental basis. The system operates as a Software as a Service (SaaS) product, facilitating secure interactions with your self-hosted Chia node, and delivering user-scoped blockchain services.
 
 Built on Amazon Web Services (AWS), the infrastructure requires an AWS account for deployment. The repository utilizes Terraform as an Infrastructure as Code (IaC) tool for seamless service provisioning. Keep in mind that at the outset, running DLaaS without customers costs approximately $30 per month. As your customer base grows, expenses will increase, necessitating appropriately priced products to cover costs.
