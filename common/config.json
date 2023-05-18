@@ -2,7 +2,7 @@
   "AWS_REGION": "us-east-1",
   "AWS_PROFILE": "DLaaS",
   "SERVICE_NAME": "DLaaS",
-  "DB_NAME": "dlaas",
+  "DB_NAME": "dlaas1",
   "SERVICE_DOMAIN": "databin.store",
   "DEFAULT_S3_BUCKET": "dlaas-databinstore2",
   "DONATE_TO_SUPPORT_MORE_DEVELOPMENT": "true",
