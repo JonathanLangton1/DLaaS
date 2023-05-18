@@ -1,4 +1,4 @@
-# DLaaS - Datalayer as a Service
+# DLaaS - Datalayer as a Service 
 ## Monetize Your Chia Blockchain Node
 
 Welcome to the DLaaS repository, your one-stop solution for converting your Chia Blockchain node into a lucrative venture. This project focuses on the Chia data layer, offering its services to clients on a rental basis. The system operates as a Software as a Service (SaaS) product, facilitating secure interactions with your self-hosted Chia node, and delivering user-scoped blockchain services.
