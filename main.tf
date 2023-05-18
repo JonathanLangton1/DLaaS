@@ -111,7 +111,7 @@ module "service-user" {
 
   depends_on = [
     aws_db_instance.default,
-    aws_lambda_invocation.init-db
+    aws_lambda_invocation.init_db
   ]
 }
 
