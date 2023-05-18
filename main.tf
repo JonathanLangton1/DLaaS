@@ -155,7 +155,7 @@ module "service-subscriptions" {
   depends_on = [
     module.service-user,
     aws_db_instance.default,
-    aws_lambda_invocation.init-db
+    aws_lambda_invocation.init_db
   ]
 }
 
