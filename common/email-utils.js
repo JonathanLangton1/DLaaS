@@ -50,7 +50,7 @@ const sendEmail = async (email, title, message, htmlMessage) => {
         },
       },
     },
-    Source: "support@databin.storage",
+    Source: "support@databin.store",
   });
 
   try {
